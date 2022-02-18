@@ -5,9 +5,9 @@ import (
 	"net/http"
 
 	"github.com/tal-tech/go-zero/rest/httpx"
-	"zero-svr/internal/logic"
-	"zero-svr/internal/svc"
-	"zero-svr/internal/types"
+	"wecom-go-app-demo/internal/logic"
+	"wecom-go-app-demo/internal/svc"
+	"wecom-go-app-demo/internal/types"
 )
 
 func zeroreceiveHandler(ctx *svc.ServiceContext) http.HandlerFunc {

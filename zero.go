@@ -4,9 +4,9 @@ import (
 	"flag"
 	"fmt"
 
-	"zero-svr/internal/config"
-	"zero-svr/internal/handler"
-	"zero-svr/internal/svc"
+	"wecom-go-app-demo/internal/config"
+	"wecom-go-app-demo/internal/handler"
+	"wecom-go-app-demo/internal/svc"
 
 	"github.com/tal-tech/go-zero/core/conf"
 	"github.com/tal-tech/go-zero/rest"

@@ -1,4 +1,4 @@
-module zero-svr
+module wecom-go-app-demo
 
 go 1.17
 

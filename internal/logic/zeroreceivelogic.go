@@ -3,8 +3,8 @@ package logic
 import (
 	"context"
 	"errors"
-	"zero-svr/internal/svc"
-	"zero-svr/internal/types"
+	"wecom-go-app-demo/internal/svc"
+	"wecom-go-app-demo/internal/types"
 
 	"github.com/tal-tech/go-zero/core/logx"
 )

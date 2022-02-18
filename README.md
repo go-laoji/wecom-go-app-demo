@@ -1,4 +1,4 @@
-# zero-svr
+# wecom-go-app-demo
 
 使用 [go-zero](https://github.com/zeromicro/go-zero) 框架编写的企业微信应用接收消息回调API
 
